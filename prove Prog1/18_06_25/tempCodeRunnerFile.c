@@ -1,0 +1,1 @@
+./prova input.txt output.bin
